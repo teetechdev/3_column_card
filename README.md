@@ -45,5 +45,5 @@ Mobile Version <br>
 
 ## Author
 
-- Github - [@yourusername](https://github.com/teetechdev)
+- Github - [@teetechdev](https://github.com/teetechdev)
 - Frontend Mentor - [teetechdev](https://www.frontendmentor.io/profile/teetechdev)
