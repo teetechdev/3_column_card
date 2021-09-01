@@ -32,7 +32,7 @@ Mobile Version <br>
 
 ### Links
 
-- Live Site URL: [3 Column Preview](https://your-live-site-url.com)
+- Live Site URL: [3 Column Preview](https://teetechdev.github.io/3_column_card/)
 
 ## My process
 
