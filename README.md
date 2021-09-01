@@ -32,7 +32,7 @@ Mobile Version <br>
 
 ### Links
 
-- Live Site URL: [3 Column Preview](https://your-live-site-url.com)
+- Live Site URL: [3 Column Preview](https://teetechdev.github.io/3_column_card/)
 
 ## My process
 
@@ -45,5 +45,5 @@ Mobile Version <br>
 
 ## Author
 
-- Github - [@yourusername](https://github.com/teetechdev)
+- Github - [@teetechdev](https://github.com/teetechdev)
 - Frontend Mentor - [teetechdev](https://www.frontendmentor.io/profile/teetechdev)
